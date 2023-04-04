@@ -1,5 +1,5 @@
 ```mermaid
     flowchart TD;
+    Start --> A;
     A --> B;
-    B --> C;
-    C --> D;
+    B --> End;
